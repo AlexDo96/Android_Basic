@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10\\truyencuoi1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10\\truyencuoi1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 53,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 66,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10\\truyencuoi1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 66,
+                        "endOffset": 121
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10 Storage\\truyencuoi1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10 Storage\\truyencuoi1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 53,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 66,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10 Storage\\truyencuoi1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 66,
+                        "endOffset": 121
+                    }
+                }
+            }
+        ]
+    }
+]

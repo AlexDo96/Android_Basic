@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/can"
+        android:title="can"></item>
+    <item android:id="@+id/cap"
+        android:title="cap"></item>
+    <item android:id="@+id/nhai"
+        android:actionLayout="@layout/abc"
+        android:title="nhai"></item>
+</menu>

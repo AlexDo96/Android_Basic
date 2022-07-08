@@ -1,0 +1,2 @@
+http://blog.blundell-apps.com/list-of-android-devices-with-pixel-density-buckets/
+http://labs.rampinteractive.co.uk/android_dp_px_calculator/

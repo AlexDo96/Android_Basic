@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10 Storage\\textviewdemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10 Storage\\textviewdemo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 56,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endLine": 8,
+                    "endColumn": 13,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10 Storage\\textviewdemo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endLine": 11,
+                        "endColumn": 13,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 69,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai 10 Storage\\textviewdemo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 69,
+                        "endOffset": 124
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">demo1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="number1">nhap dum so thu 1 coi</string>
+    <string name="number2">Nhập số thứ 2 dùm</string>
+    <string name="click">tinh</string>
+    <string name="sum">tong bang :</string>
+
+</resources>

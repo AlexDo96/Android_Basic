@@ -1,0 +1,7 @@
+#Wed Oct 05 09:04:50 ICT 2016
+base.0=E\:\\KTPM HSU\\Lap trinh Andorid\\Bai13 +\\gridviewcar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f73521ad936a78ebae4f62e5ebe5c47ffb9224e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\KTPM HSU\\Lap trinh Andorid\\Bai13 +\\gridviewcar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_27dfaca28693418b17c6e8c74bfe9ce55ba7bd4c\\classes.dex
+base.1=E\:\\KTPM HSU\\Lap trinh Andorid\\Bai13 +\\gridviewcar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_27dfaca28693418b17c6e8c74bfe9ce55ba7bd4c
+file.0=E\:\\KTPM HSU\\Lap trinh Andorid\\Bai13 +\\gridviewcar1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f73521ad936a78ebae4f62e5ebe5c47ffb9224e\\classes.dex

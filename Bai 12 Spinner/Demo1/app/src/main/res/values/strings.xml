@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="chon">chon thanh pho</string>
+    <string-array name="thanhpho">
+        <item>HCM</item>
+        <item>Hue</item>
+        <item>HN</item>
+    </string-array>
+</resources>

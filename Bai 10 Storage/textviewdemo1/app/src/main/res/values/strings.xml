@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Textviewdemo1Activity!</string>
+    <string name="app_name">b11_1_Textviewdemo1</string>
+    
+    <string name="chuoihtml">
+        &lt;font color=&quot;red&quot;&gt;lap trinh&lt;/font&gt;
+        &lt;font color=&quot;blue&quot;&gt;
+        &lt;b&gt;&lt;i&gt;&lt;u&gt;php mysql&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;
+        &lt;/font&gt;
+    </string>
+
+</resources>

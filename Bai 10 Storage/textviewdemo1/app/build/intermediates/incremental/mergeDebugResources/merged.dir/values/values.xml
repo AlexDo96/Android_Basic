@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">b11_1_Textviewdemo1</string>
+    <string name="chuoihtml">
+        &lt;font color="red">lap trinh&lt;/font>
+        &lt;font color="blue">
+        &lt;b>&lt;i>&lt;u>php mysql&lt;/u>&lt;/i>&lt;/b>
+        &lt;/font>
+    </string>
+    <string name="hello">Hello World, Textviewdemo1Activity!</string>
+</resources>

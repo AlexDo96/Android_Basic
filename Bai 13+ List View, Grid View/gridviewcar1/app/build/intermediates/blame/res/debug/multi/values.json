@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai13 +\\gridviewcar1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai13 +\\gridviewcar1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 54,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 67,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "E:\\KTPM HSU\\Lap trinh Andorid\\Bai13 +\\gridviewcar1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 67,
+                        "endOffset": 122
+                    }
+                }
+            }
+        ]
+    }
+]

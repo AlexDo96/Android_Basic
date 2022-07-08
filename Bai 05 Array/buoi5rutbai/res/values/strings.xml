@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Buoi5rutbaiActivity!</string>
+    <string name="app_name">b5_3_rutbai</string>
+    <string name="rutbai">Rut ngau nhien 1 la bai</string>
+    <string name="txtthongbao">thong bao</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\KTPM HSU\Lap trinh Andorid\Bai13 +\gridviewcar1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="758bfbe0772d2cb2b4fe75fff4c01354266beac3">
+        <dex dex="E:\KTPM HSU\Lap trinh Andorid\Bai13 +\gridviewcar1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2f73521ad936a78ebae4f62e5ebe5c47ffb9224e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\KTPM HSU\Lap trinh Andorid\Bai13 +\gridviewcar1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07280e4ba005220f5fb7feff51356d9bc0fb6ca0">
+        <dex dex="E:\KTPM HSU\Lap trinh Andorid\Bai13 +\gridviewcar1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_27dfaca28693418b17c6e8c74bfe9ce55ba7bd4c\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HinhtronActivity!</string>
+    <string name="app_name">b1_2_Hinhtron</string>
+    <string name="tv_bankinh">Nhập vào bán kính</string>
+
+</resources>

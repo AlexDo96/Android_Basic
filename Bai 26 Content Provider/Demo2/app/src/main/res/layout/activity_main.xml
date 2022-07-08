@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtContactName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact name" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/inputContactName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="contact name"
+        android:inputType="text" >
+    </EditText>
+
+    <TextView
+        android:id="@+id/txtContactEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="email" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/inputContactEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="email"
+        android:inputType="textEmailAddress" >
+    </EditText>
+
+    <TextView
+        android:id="@+id/txtContactMobNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="phone number" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/inputContactMobNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="phone number"
+        android:inputType="number" >
+    </EditText>
+
+    <Button
+        android:id="@+id/btnAddContact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:hint="add contact" >
+    </Button>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
+

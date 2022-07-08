@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <!-- Search / luon luon hien thi -->
+    <item android:id="@+id/action_search"
+        android:icon="@mipmap/maybay"
+        android:title="action_search"
+        app:showAsAction="ifRoom"/>
+
+    <!-- Location Found -->
+    <item android:id="@+id/cham_cham"
+        android:icon="@mipmap/cham_cham"
+        android:title="action_location_found"
+        app:showAsAction="ifRoom" >
+        <menu>
+            <!-- Refresh -->
+            <item android:id="@+id/action_refresh"
+                android:icon="@mipmap/maybay"
+                android:title="action_refresh"
+                app:showAsAction="ifRoom" />
+
+            <!-- Help -->
+            <item android:id="@+id/action_help"
+                android:icon="@mipmap/maybay"
+                android:title="action_help"
+                app:showAsAction="never">
+                <menu>
+                    <item android:id="@+id/sub1"
+                        android:icon="@mipmap/maybay"
+                        android:title="sub1"
+                        app:showAsAction="never" />
+                    <item android:id="@+id/sub2"
+                        android:icon="@mipmap/maybay"
+                        android:title="sub2"
+                        app:showAsAction="never" />
+                </menu>
+            </item>
+
+            <!-- Check updates -->
+            <item android:id="@+id/action_check_updates"
+                android:icon="@mipmap/maybay"
+                android:title="action_check_updates"
+                app:showAsAction="never" />
+        </menu>
+
+
+
+    </item>
+
+</menu>
